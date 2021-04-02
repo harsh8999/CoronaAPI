@@ -1,1 +1,1 @@
-web: gunicorn trainAPI.wsgi --log-file -
+web: gunicorn CoronaAPI.wsgi --log-file -
