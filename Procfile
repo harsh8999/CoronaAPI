@@ -1,0 +1,1 @@
+web: gunicorn trainAPI.wsgi --log-file -
